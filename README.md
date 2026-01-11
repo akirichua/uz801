@@ -312,7 +312,7 @@ Use dumpsys to get candidate activities list in the app:
 ```
 $ adb shell dumpsys package com.android.settings | grep com.android.settings/
 ```
-P.S. [scrcpy](https://github.com/Genymobile/scrcpy) is not supported on this device (requires API 21 / Android 5.0).
+P.S. [scrcpy](https://github.com/Genymobile/scrcpy) is not supported on this device (requires API 21 / Android 5.0). But you can use ARDC (see https://4pda.to/forum/index.php?showtopic=849043&view=findpost&p=119515759) instead.
 
 
 ## Featuring
